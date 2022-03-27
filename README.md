@@ -1,6 +1,7 @@
 # sprint_2_01
 
-A new Flutter project.
+Counter hanya akan berjalan ketika Aplikasi dalam "Paused" State.
+Text styles akan diganti dengan pilihan pada dropdownbutton.
 
 ## Getting Started
 
